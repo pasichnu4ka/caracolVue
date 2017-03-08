@@ -1,8 +1,29 @@
-# caracol
+# caracolVue
 
-> A sample project to test Vue.js
+Playing with VueJS
 
-## Build Setup
+## Table of Contents
+1. [Development environment](#dev-environment)
+2. [Components](#components)
+3. [Styling](#styling)
+4. [Mixins & Plugins](#mixins-plugins)
+5. [Routing](#routing)
+6. [Data flow and services](#data-flow)
+7. [State management](#state-management)
+8. [Build process](#build)
+8. [Unit testings](#testing)
+
+### Development environment
+### Components
+### Styling
+### Mixins & Plugins
+### Routing
+### Data flow and services
+### State management
+### Build process
+### Unit testing
+
+## Usage
 
 ``` bash
 # install dependencies
