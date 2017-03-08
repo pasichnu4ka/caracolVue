@@ -10,6 +10,7 @@ Playing with VueJS
 6. [Data flow and services](#data-flow)
 7. [State management](#state-management)
 8. [Build process](#build)
+8. [Unit testings](#testing)
 
 ### Development environment
 ### Components
@@ -19,3 +20,4 @@ Playing with VueJS
 ### Data flow and services
 ### State management
 ### Build process
+### Unit testing
